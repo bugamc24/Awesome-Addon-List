@@ -1,5 +1,5 @@
 # Awesome-Addon-List
-Addons commands: /fg (field guide)<> /al (atlasloot) <>/fb (fishing buddy) <> /ltp (LeatrixPlus) <> /tiptac <>  /prat <> /opie <>  /ctt <> /ppa <> /msbt (battle text)
+Addons commands: /fg (field guide)<> /al (atlasloot) <>/fb (fishing buddy) <> /ltp (LeatrixPlus) <> /tiptac <>  /prat <> /opie <>  /ctt <> /ppa <> /msbt (battle text) <> /sw (stopwatches)
 
 [I highly recommend disabling Recipe Radar Classic when it's not needed! I had issues with it bugging some other addons out!]
 
